@@ -223,8 +223,8 @@ describe('objects-tasks', () => {
         'Result of new Rectangle(10,20) should be an object with "height" property'
       );
       assert.equal(
-        rect.width,
-        10,
+        rect.height,
+        20,
         'Result of new Rectangle(10,20) should be an object with "height" property equals to 20'
       );
       assert.equal(

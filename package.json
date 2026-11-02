@@ -2,7 +2,7 @@
   "name": "core-js-objects",
   "version": "1.0.0",
   "description": "Core JS Objects",
-  "main": "index.js",
+  "main": "src/objects-tasks.js",
   "scripts": {
     "test": "npm run lint && mocha",
     "lint": "node node_modules/eslint/bin/eslint.js ./src",
